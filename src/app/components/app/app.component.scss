@@ -1,0 +1,10 @@
+div{
+    line-height: 20px;
+}
+
+:host::ng-deep .mat-spinner{
+    display: inline-block;
+    position: relative;
+    margin-right: 15px;
+    top: 5px;
+}
